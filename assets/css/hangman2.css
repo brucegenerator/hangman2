@@ -1,0 +1,62 @@
+.jumbotron-fluid {
+    background-image: url("https://media.wired.com/photos/5d602b1157fd1400096696a1/master/w_700,c_limit/photo_space_hubble-3.jpg");
+
+    
+}
+body {
+    background-image: url("https://img5.goodfon.com/wallpaper/nbig/b/67/zvezdy-kosmos-prostranstvo-ellen-ripli-chuzhoi.jpg");
+}
+header {
+    border: 3px solid black;
+    color: blueviolet;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    height: 150px;
+    width:  75%;
+}
+.blanks {
+    border: 3px solid black;
+    color: blueviolet;
+    font-size: 50px;
+    text-align: center;
+    margin: 0 auto;
+    height: 150px;
+    width:  75%;
+}.rightGuess {
+    border: 3px solid black;
+    color: blueviolet;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    height: 150px;
+    width:  75%;
+}
+.wrongGuess {
+    border: 3px solid black;
+    color: blueviolet;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    height: 150px;
+    width:  75%;
+}
+.losses {
+    border: 3px solid black;
+    color: blueviolet;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    height: 150px;
+    width:  75%;
+    
+}
+.wins {
+    border: 3px solid black;
+    color: blueviolet;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    height: 150px;
+    width:  75%;
+}
